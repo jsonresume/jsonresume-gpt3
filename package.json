@@ -15,5 +15,14 @@
     "glob": "^7.1.6",
     "lodash": "^4.17.20",
     "slugify": "^1.4.5"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsonresume/jsonresume-gpt3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jsonresume/jsonresume-gpt3/issues"
+  },
+  "homepage": "https://github.com/jsonresume/jsonresume-gpt3#readme"
 }
