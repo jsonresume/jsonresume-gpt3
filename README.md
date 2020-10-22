@@ -1,2 +1,3 @@
 # Almost Real Resume (GPT-3)
-# jsonresume-gpt3
+
+## Once approved I will write a technical explanation.
