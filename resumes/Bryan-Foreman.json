@@ -1,0 +1,53 @@
+{
+    "basics": {
+        "name": "Bryan Foreman",
+        "label": "Managing Consultant",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "Microsoft Azure and DevOps expert with more than 20 years of industry experience working in a wide-range of environments.",
+        "email": "bryan-foreman@gmail.com",
+        "location": {
+            "city": "San Francisco",
+            "countryCode": "USA"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked with Bryan while he was at Microsoft and was responsible for migrating and architecting Microsoft Dynamics ERP to cloud-based services. I worked with Bryan to assess the technical and business risks and ultimately built a migration strategy that was adopted by the business. Bryan was instrumental in helping us understand and architect the solution, as well as working within the business to determine the best migration strategy to adopt. Bryan was always quick to help us out and provide assistance when we needed it.",
+            "name": "Contact Available Upon Request"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Conducted large-scale technical demonstrations for industry customers (GE, IBM, and NASA) featuring cloud-based solutions and interoperability between Microsoft Azure and multiple partners",
+                null
+            ],
+            "summary": "Provided technical leadership for global customers, with a focus on large enterprise deployments and migration projects.",
+            "website": "https://microsoft.com",
+            "company": "Microsoft",
+            "position": "Senior Consultant",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Provide expert consulting services in Microsoft Azure to clients from Fortune 100 to small business.",
+                "Provide consulting services to partners using Azure Stack"
+            ],
+            "summary": "Provide consulting services to business partners and customers who want to use enterprise technologies to become true digital businesses",
+            "website": "https://microsoft.com",
+            "company": "Bryan Foreman and Associates",
+            "position": "Managing Consultant",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": " Programming"
+        },
+        {
+            "name": " reading, camping"
+        }
+    ]
+}

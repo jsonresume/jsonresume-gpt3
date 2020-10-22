@@ -1,0 +1,59 @@
+{
+    "basics": {
+        "name": "Guy Elias",
+        "label": "Software Engineer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "Caring team player who works at a high level of excellence in a fast-paced environment and takes pride in his work.",
+        "email": "guy-elias@gmail.com",
+        "location": {
+            "city": "San Francisco",
+            "countryCode": "USA"
+        }
+    },
+    "references": [
+        {
+            "reference": "I had the honor of being the first full time employee at Flix Brewhouse. The culture, the people and the food at Flix is what makes it unique and I'm so happy to have been a part of it.",
+            "name": "Contact Available Upon Request"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Managed automation and monitoring of all technology used to maintain and run the Flix Brewhouse",
+                "Managed the build of a Linux based Juniper network and firewalls"
+            ],
+            "summary": "Worked on a small team responsible for all aspects of the 'brew house', the heart of the Flix movie theater and restaurant.",
+            "website": "https://flix-brewhouse.com",
+            "company": "Flix Brewhouse",
+            "position": "Systems Administrator",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Recovered from a disaster we created ourselves and got the network back online and fully operational before the end of the shift.",
+                "Prevented an attack on the network by recognizing a known security issue and acting decisively to prevent damage to the network."
+            ],
+            "summary": "Responsible for all aspects of network and security operations at the Honeywell Garrett Manufacturing facility.",
+            "website": "https://flix-brewhouse.com",
+            "company": "Honeywell",
+            "position": "Senior Network Engineer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": " Movies"
+        },
+        {
+            "name": " Cooking"
+        },
+        {
+            "name": " Fitness"
+        },
+        {
+            "name": ""
+        }
+    ]
+}

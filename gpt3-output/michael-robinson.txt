@@ -1,0 +1,15 @@
+Name:Michael Robinson
+Job Title:Software Engineer
+Summary: I am a full stack software engineer with a focus on JavaScript, C# and .NET. I have also experience in Node, Python, Java, Golang, PHP, C++, HTML, CSS, SASS, SCSS, Bower, NPM, Babel, Webpack, Grunt, React, Vue, Knockout, Angular, TypeScript, ASP.NET, MVC, Web API, DDD, SOLID, TDD, BDD, XP, Agile, Scrum, JIRA, Confluence, and Bitbucket.
+Company #1 Name:Shopify
+Company #1 Role:Software Engineer
+Company #1 Summary:Shopify is a commerce platform that allows anyone to easily sell online, at a retail location, and everywhere in between. Shopify’s 170,000 merchants can use the software to design, set up, and manage their stores across multiple sales channels, and have access to a suite of analytics tools to track their business.
+Company #1 Highlight 1:Developed Web API and SPA in React.js to support a Point of Sale application
+Company #1 Highlight 2:Developed cross-platform application in Vue.js to support a Point of Sale application
+Company #2 Name:PanAmSat
+Company #2 Role:Software Engineer
+Company #2 Summary:PanAmSat was a multinational provider of satellite services, headquartered in Bethesda, Maryland, United States. It was created in 1996 by the merger of PanAmSat and SatCom. The company was purchased by Hughes Electronics, which itself was later purchased by the Boeing Company in 2000.
+Company #2 Highlight 1:Performed system level analysis and software design
+Company #2 Highlight 2:Developed software for DSP applications and satellite control systems
+Personal Reference:I worked alongside Michael on several projects at PanAmSat. Michael is an excellent team player and highly valued engineer. When tasked with difficult problems or delivery schedules he consistently exceeded expectations.
+Interests: Hiking. Biking. Soccer.

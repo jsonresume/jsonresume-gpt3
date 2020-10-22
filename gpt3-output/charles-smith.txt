@@ -1,0 +1,19 @@
+Name:Charles Smith
+Job Title:Senior Software Engineer for UNIX and Windows
+Summary:I have 20+ years software development in various languages on various platforms. I work strictly in C and C++ when developing new applications and software tools or modifying/enhancing existing ones. I also work in the Microsoft .NET platform using C# and ASP. Having worked in and seen every type of team, I have experience in leading a team, effectively communicating issues, overcoming challenges and delivering results.
+Company #1 Name:Alliance Data
+Company #1 Role:Senior Software Engineer
+Company #1 Summary:Research and develop new and enhance existing systems using the Linux operating system.
+Company #1 Highlight 1:Port of the customer database that runs on a distributed system to an Apache Cassandra database in Amazon Web Services using the Spring Framework
+Company #1 Highlight 2:Built the solution to a long-running production issue using an external simple command line interface
+Personal Reference:I worked with Charles for many years at Wells Fargo, and I was always impressed with the finished deliverables. I recall many conversations about those completed projects, but the one that stands out in my mind is the one to permit coworkers to check in to a distributed database in real-time from any of the thousands of locations by using some existing Java applications.
+Company #2 Name:Wells Fargo
+Company #2 Role:Senior Software Engineer
+Company #2 Summary:I was a software engineer in the Information Security Risk Management department taking an active role in assessing the existing security controls and compliance of the banking products delivered internally by Wells Fargo.
+Company #2 Highlight 1:Created a security policy and strategy for the 128-bit encryption hardware and software that was implemented in all ATMs and Windows based POS terminals.
+Company #2 Highlight 2:Implemented and deployed a new cross-platform security product that is used to remotely manage and secure desktop computers.
+Personal Reference:I had the opportunity to work with Charles on a team that created a technology that was used to encrypt data produced by ATM and POS terminals. It was an extremely difficult task requiring detailed knowledge of VPN technology and hardware and software encryption. It included various protocols including Supervised Internet and SSL.We completed the task within a time frame that had never been done before, and we had to create the infrastructure to test the solution before final implementation. This team was a difficult assignment, and Charles was its most valuable member.He is very detail oriented, conscientious and a team player who is capable of coping well with frequent interruptions.
+Company #3 Name:KLH Capital
+Company #3 Role:Enterprise Regional Bank Software Consultant
+Company #3 Summary:I provided enterprise application software support to a regional bank located in Texas. My responsibilities included design implementation, maintenance and configuration of the banks' AMC, Teller and Credit Card products. My responsibilities also included integration with legacy banking and third party systems as well as data modeling, query and report design and implementation.
+Interests: Game Theory. Philosophy. Engineering. Art. Math.

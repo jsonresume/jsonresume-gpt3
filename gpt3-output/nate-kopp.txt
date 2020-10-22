@@ -1,0 +1,15 @@
+Name:Nate Kopp
+Job Title:Web Developer
+Summary:I am an experienced software engineer with a strong interest in creating innovative web applications. My primary programming language is Ruby on Rails but I have also created applications using Python, Java, and Javascript. I am also proficient in Linux and am comfortable working in a development environment that uses a variety of languages. I am a strong team player and have a proven ability to lead a development team.
+Company #1 Name:Google
+Company #1 Role:Software Engineer
+Company #1 Summary:Worked on some of Google's core products like AdSense, AdWords, and Search
+Company #1 Highlight 1:Responsible for all aspects of the feature development life cycle from concept to product launch.
+Company #1 Highlight 2:Worked with other teams to ensure user stories and bugs are well scoped and documented
+Company #2 Name:SAP
+Company #2 Role:Senior Developer
+Company #2 Summary:Worked on a group within SAP that focused on content management, search, and user experience for the media.
+Company #2 Highlight 1:Worked with other designers and developers to build a consumer facing website
+Company #2 Highlight 2:Created a dashboard to monitor the performance of the website
+Personal Reference:Nate is one of the best web developers I have ever had the pleasure of working with. He is a very talented designer as well. Nate has always been a hard worker and is always looking for ways to improve himself and the products he is working on.
+Interests: Running.

@@ -1,0 +1,56 @@
+{
+    "basics": {
+        "name": "Timothy Mckenzie",
+        "label": "Software Engineer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a professional software engineer with over 20 years of experience. My experience includes full-stack development, team leadership, architecture, design, and implementation. I have experience working in both government and commercial environments. I have extensive experience in Java and .NET on the server side, and with Angular, React and Node.js on the client side. I also have experience working with Postgres, Redis and MongoDB on the database server. I work well both as part of a team and independently, am a strong communicator and I am always keen to learn and improve.",
+        "email": "timothy-mckenzie@gmail.com",
+        "location": {
+            "city": "San Francisco",
+            "countryCode": "USA"
+        }
+    },
+    "references": [
+        {
+            "reference": "I have worked with Tim on a number of different teams and projects over the past 15 years. He has always been a leader and a very capable engineer who is able to work well in a team and also independently. Tim is one of the most solid engineers that I have had the pleasure of working with.",
+            "name": "Contact Available Upon Request"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "I delivered software to production servers 34 times in a single month",
+                "I was responsible for the SOC/SAT environment, identity system, and a range of other products"
+            ],
+            "summary": "I have lead teams of full-stack developers and QA engineers who develop and test applications using Java and .NET on the server side and Angular, React and Node on the client side.",
+            "website": "https://simple-finance.com",
+            "company": "Simple Finance",
+            "position": "Lead Software Engineer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "I developed developer and QA tools that are used by multiple teams today",
+                "I delivered software to production servers 25 times in a single month"
+            ],
+            "summary": "I worked with a team of 3 developers as a leader to deliver a range of customer facing web applications using Java and .NET on the server side and Angular on the client side.",
+            "website": "https://simple-finance.com",
+            "company": "W.L. Gore & Associates",
+            "position": "Staff Software Engineer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": " Sailing"
+        },
+        {
+            "name": " Home Improvement"
+        },
+        {
+            "name": ""
+        }
+    ]
+}

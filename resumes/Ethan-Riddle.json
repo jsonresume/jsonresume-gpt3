@@ -1,0 +1,53 @@
+{
+    "basics": {
+        "name": "Ethan Riddle",
+        "label": "Senior Software Engineer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I’m a senior full-stack software engineer with over ten years of experience working in the media and tech industries. I’ve had the opportunity to work on everything from complex web applications to offline batch-processing systems.",
+        "email": "ethan-riddle@gmail.com",
+        "location": {
+            "city": "San Francisco",
+            "countryCode": "USA"
+        }
+    },
+    "references": [
+        {
+            "reference": "Ethan is a smart and talented engineer who always delivers. He's a great collaborator who also takes the initiative to lead the design and implementation of a number of complex systems. I can always count on Ethan to communicate clearly with his team and stakeholders and has a great knack for getting to the heart of a problem.",
+            "name": "Contact Available Upon Request"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Taught the rest of the engineering team how to build a custom, end-to-end streaming stack",
+                "Lead the development of the core audio and video encoder and decoder libraries, which were used by hundreds of engineers across the company"
+            ],
+            "summary": "Roku is the leading streaming player platform for delivering entertainment to the TV. I was a senior member of the core software engineering team responsible for building the streaming platform, which has been used by over ten million customers to watch over ten billion hours of content since our launch in 2008.",
+            "website": "https://roku-inc..com",
+            "company": "Roku, Inc.",
+            "position": "Senior Software Engineer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Created a suite of tools to automate the testing of our highly distributed application",
+                "Integrated an external content delivery network into our codebase to allow for a smoother migration from our datacenter to AWS in the future"
+            ],
+            "summary": "Led the development of a highly scalable Java application that aggregated and distributed content across a global network of servers.",
+            "website": "https://roku-inc..com",
+            "company": "Viacom",
+            "position": "Senior Software Engineer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": " Brazilian Jiu Jitsu"
+        },
+        {
+            "name": ""
+        }
+    ]
+}

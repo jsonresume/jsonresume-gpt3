@@ -1,0 +1,15 @@
+Name:Bryan Foreman
+Job Title:Managing Consultant
+Summary:Microsoft Azure and DevOps expert with more than 20 years of industry experience working in a wide-range of environments.
+Author and contributor to several books and publications, including the Microsoft Press Azure in Action book, .Net Rocks! podcast, and Pluralsight course.
+Company #1 Name:Microsoft
+Company #1 Role:Senior Consultant
+Company #1 Summary:Provided technical leadership for global customers, with a focus on large enterprise deployments and migration projects.
+Company #1 Highlight 1:Conducted large-scale technical demonstrations for industry customers (GE, IBM, and NASA) featuring cloud-based solutions and interoperability between Microsoft Azure and multiple partners
+Company #2 Name:Bryan Foreman and Associates
+Company #2 Role:Managing Consultant
+Company #2 Summary:Provide consulting services to business partners and customers who want to use enterprise technologies to become true digital businesses
+Company #2 Highlight 1:Provide expert consulting services in Microsoft Azure to clients from Fortune 100 to small business.
+Company #2 Highlight 2:Provide consulting services to partners using Azure Stack
+Personal Reference:I worked with Bryan while he was at Microsoft and was responsible for migrating and architecting Microsoft Dynamics ERP to cloud-based services. I worked with Bryan to assess the technical and business risks and ultimately built a migration strategy that was adopted by the business. Bryan was instrumental in helping us understand and architect the solution, as well as working within the business to determine the best migration strategy to adopt. Bryan was always quick to help us out and provide assistance when we needed it.
+Interests: Programming, reading, camping

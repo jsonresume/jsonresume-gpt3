@@ -1,0 +1,15 @@
+Name:Guy Elias
+Job Title:Software Engineer
+Summary:Caring team player who works at a high level of excellence in a fast-paced environment and takes pride in his work.
+Company #1 Name:Flix Brewhouse
+Company #1 Role:Systems Administrator
+Company #1 Summary:Worked on a small team responsible for all aspects of the 'brew house', the heart of the Flix movie theater and restaurant.
+Company #1 Highlight 1:Managed automation and monitoring of all technology used to maintain and run the Flix Brewhouse
+Company #1 Highlight 2:Managed the build of a Linux based Juniper network and firewalls
+Company #2 Name:Honeywell
+Company #2 Role:Senior Network Engineer
+Company #2 Summary:Responsible for all aspects of network and security operations at the Honeywell Garrett Manufacturing facility.
+Company #2 Highlight 1:Recovered from a disaster we created ourselves and got the network back online and fully operational before the end of the shift.
+Company #2 Highlight 2:Prevented an attack on the network by recognizing a known security issue and acting decisively to prevent damage to the network.
+Personal Reference:I had the honor of being the first full time employee at Flix Brewhouse. The culture, the people and the food at Flix is what makes it unique and I'm so happy to have been a part of it.
+Interests: Movies. Cooking. Fitness.
