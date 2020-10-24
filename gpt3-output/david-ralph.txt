@@ -1,0 +1,15 @@
+Name:David Ralph
+Job Title:Senior Analyst Programmer
+Summary:I have been a software development professional for over 34 years. I have a strong track record of building, launching and supporting enterprise projects. I am a great team player, and I am passionate about turning customer requirements into useful and usable software.
+Company #1 Name:Scotiabank
+Company #1 Role:Senior Analyst Programmer
+Company #1 Summary:Innovate and manage the delivery of the firm's top performing applications used by retail and commercial business banking customers
+Company #1 Highlight 1:Developed and coded business rules for enterprise applications used by thousands of banking customers including business rules for mortgage applications
+Company #1 Highlight 2:Developed and coded a new solution for managing the bank's country and corporate bank accounts on behalf of the firm's corporate clients
+Company #2 Name:Glace Bay Consolidated Credit Union
+Company #2 Role:Sr. Analyst Programmer
+Company #2 Summary:Innovate and manage the delivery of the credit union's top performing applications used by members and employees
+Company #2 Highlight 1:Developed an e-commerce site for the credit union's members to access their accounts. This site was highly successful and was awarded an Innovation Award by the Canadian Credit Union Association
+Company #2 Highlight 2:Developed a mobile application for the credit union's members to access their accounts. This application was highly successful and was awarded an Innovation Award by the Canadian Credit Union Association
+Personal Reference:David is a JavaScript/TypeScript developer with a passion for developing quality software quickly. He is a proven team player who is known for his ability to manage a high volume of work with minimal supervision.
+Interests: Custom motorcycles. Cooking.

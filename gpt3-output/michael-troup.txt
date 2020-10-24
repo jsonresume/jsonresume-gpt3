@@ -1,0 +1,15 @@
+Name:Michael J. Troup
+Job Title:Software Engineer
+Summary:I have worked primarily as a C#/.Net developer for many years. I have extensive experience working with web technologies including ASP.Net, MVC, WPF, and Web API. I am currently working as a backend web services developer working with Scala and AWS Lambda.
+Company #1 Name:W2 Group
+Company #1 Role:Senior Software Engineer
+Company #1 Summary:Built a REST based web services interface to an in-house revenue cycle management system to support the implementation of an electronic medical records system for a large provider of specialty care.
+Company #1 Highlight 1:Built a framework to be used by internal business partners to add additional services to our platform
+Company #1 Highlight 2:Migrated an internal web interface to a single page application using Angular and TypeScript
+Company #2 Name:Advance Auto Parts
+Company #2 Role:Lead Software Engineer
+Company #2 Summary:Responsible for the design, development, and technical leadership of a number of websites and web applications for the Advance Auto Parts automotive retail division.
+Company #2 Highlight 1:Converted a complex web application to AngularJS 1.x and TypeScript
+Company #2 Highlight 2:Led a team responsible for the design, development, and support of an internal CRM system used by all Advance Auto Parts stores
+Personal Reference:Mike has been a key contributor to many of my teams over the last decade. He has a natural ability to identify the root cause of issues and create technical solutions that are easy to maintain and scale. Mike has a broad software development background and is always learning new technologies and methodologies to benefit our company and his team.
+Interests: Photography.

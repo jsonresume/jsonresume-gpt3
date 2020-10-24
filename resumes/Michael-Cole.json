@@ -1,0 +1,59 @@
+{
+    "basics": {
+        "name": "Michael Cole",
+        "label": "Web Application Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I'm an experienced web developer that has lead development teams at startups and large corporations. I am an advocate for continuous integration and delivery and have built systems to support this. I have worked with many different programming languages and frameworks and have experience in multiple web frameworks (Python/Django, Node.js, and Ruby on Rails.) I've also worked with a range of databases (PostgreSQL, MySQL, MongoDB, and Redis.) I love working with DevOps teams and have contributed to cloud platforms including AWS and Heroku. Company #1 Name",
+        "email": "michael-cole@gmail.com",
+        "location": {
+            "city": "San Francisco",
+            "countryCode": "USA"
+        }
+    },
+    "references": [
+        {
+            "reference": "Mike is a very talented developer who can do it all. He is able to deliver an MVP and work with a team to get the product ready for launch. He is a great team player who works well with all types of personalities. He has great communication skills and is a great mentor for junior level developers.",
+            "name": "Contact Available Upon Request"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "I supported a team of 4 developers and 4 designers with their application development in Python/Django and JavaScript/Node.js working with MongoDB and Redis.",
+                "Created a series of RESTful API's for use by internal teams and third parties"
+            ],
+            "summary": "Dish Network is the leading provider of innovative satellite TV and technology products and services for residential and commercial customers worldwide.",
+            "website": "https://jinx-networks.com",
+            "company": "Jinx Networks",
+            "position": "Senior Web Application Developer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Built a team of 3 developers and 1 designer to release web and mobile applications while maintaining a production environment in AWS",
+                "Created a series of APIs for use by internal teams and third parties"
+            ],
+            "summary": "A daily deals service that helps its users discover and save on the things they want to do, see, eat and buy. LivingSocial has more than 200 million registered members in over 500 cities around the world who make decisions on where to eat, play and stay using our platform.",
+            "website": "https://jinx-networks.com",
+            "company": "LivingSocial",
+            "position": "Senior Web Application Developer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": " Sports"
+        },
+        {
+            "name": " Fishing"
+        },
+        {
+            "name": " Gardening"
+        },
+        {
+            "name": ""
+        }
+    ]
+}

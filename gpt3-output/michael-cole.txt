@@ -1,0 +1,15 @@
+Name:Michael Cole
+Job Title:Web Application Developer
+Summary:I'm an experienced web developer that has lead development teams at startups and large corporations. I am an advocate for continuous integration and delivery and have built systems to support this. I have worked with many different programming languages and frameworks and have experience in multiple web frameworks (Python/Django, Node.js, and Ruby on Rails.) I've also worked with a range of databases (PostgreSQL, MySQL, MongoDB, and Redis.) I love working with DevOps teams and have contributed to cloud platforms including AWS and Heroku. Company #1 Name:Dish Network
+Company #1 Name:Jinx Networks
+Company #1 Role:Senior Web Application Developer
+Company #1 Summary:Dish Network is the leading provider of innovative satellite TV and technology products and services for residential and commercial customers worldwide.
+Company #1 Highlight 1:I supported a team of 4 developers and 4 designers with their application development in Python/Django and JavaScript/Node.js working with MongoDB and Redis.
+Company #1 Highlight 2:Created a series of RESTful API's for use by internal teams and third parties
+Company #2 Name:LivingSocial
+Company #2 Role:Senior Web Application Developer
+Company #2 Summary:A daily deals service that helps its users discover and save on the things they want to do, see, eat and buy. LivingSocial has more than 200 million registered members in over 500 cities around the world who make decisions on where to eat, play and stay using our platform.
+Company #2 Highlight 1:Built a team of 3 developers and 1 designer to release web and mobile applications while maintaining a production environment in AWS
+Company #2 Highlight 2:Created a series of APIs for use by internal teams and third parties
+Personal Reference:Mike is a very talented developer who can do it all. He is able to deliver an MVP and work with a team to get the product ready for launch. He is a great team player who works well with all types of personalities. He has great communication skills and is a great mentor for junior level developers.
+Interests: Sports. Fishing. Gardening.

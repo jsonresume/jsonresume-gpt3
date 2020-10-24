@@ -1,0 +1,14 @@
+Name:John Smith
+Job Title:Software Engineer
+Summary:I have over a decade of experience in building modern, scalable web and mobile applications. I have architected, designed, and delivered complex software-as-a-service, and have extensive experience designing, building, and maintaining scalable microservices.
+Company #1 Name:Facebook Inc.
+Company #1 Role:Engineering Manager
+Company #1 Summary:Managed a team of engineers building high-volume, high-visibility projects, such as the Facebook app on iPhone and iPad
+Company #1 Highlight 1:Worked in a dogfooding capacity for Facebook’s internal products
+Company #2 Name:Fare Network
+Company #2 Role:Senior Software Engineer
+Company #2 Summary:Lead a team of developers in building a multi-sided market platform servicing airlines, hotels, car rental agencies, and travel agents
+Company #2 Highlight 1:Implemented a highly scalable solution for powering a multi-sided platform using Java and Scala, using AWS and Cloudfoundry
+Company #2 Highlight 2:Built a resilient (and performant) application architecture using event-driven microservices and reactive programming
+Personal Reference:I have worked alongside John for over a decade. He is a passionate engineer who produces high quality code that is both maintainable and extensible. His work has always been above and beyond, and he is always willing to help out and mentor others.
+Interests: Music, especially piano.

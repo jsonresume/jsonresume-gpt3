@@ -1,0 +1,59 @@
+{
+    "basics": {
+        "name": "Mike Stapleton",
+        "label": "Full Stack Software Engineer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am an experienced full stack software engineer and system administrator, with a background in building and scaling high performance and highly available systems. I am also an experienced software development manager with a passion for coding and mentoring junior staff.",
+        "email": "mike-stapleton@gmail.com",
+        "location": {
+            "city": "San Francisco",
+            "countryCode": "USA"
+        }
+    },
+    "references": [
+        {
+            "reference": "I had the privilege to work with Mike at a time when PC networking was beginning to take hold at Advance Auto Parts (AAP.) Mike was instrumental in advocating, architecting and implementing critical infrastructure services.",
+            "name": "Contact Available Upon Request"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Wrote strategy for migration from custom AWS EC2 delivery architecture to serverless platform to increase resiliency in operations",
+                "Lead effort to eliminate bespoke services for highly available third party services with larger community and/or company support"
+            ],
+            "summary": "Lead team of infrastructure and security engineers in providing secure, PCI-DSS compliant platform for regulated financial technology company.",
+            "website": "https://simple-finance.com",
+            "company": "Simple Finance",
+            "position": "Staff Infrastructure Engineer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Evaluate the security of intranet applications written by internal development groups and outside vendors through whitebox and blackbox testing",
+                "Created policy and procedure for securing Windows NT servers used across the corporation"
+            ],
+            "summary": "Worked within the Intranet/Internet Systems Group specializing in security and system administration on Sun Solaris and Windows NT servers.",
+            "website": "https://simple-finance.com",
+            "company": "Norfolk Southern Railroad",
+            "position": "Senior Developer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": " Drawing"
+        },
+        {
+            "name": " Cooking"
+        },
+        {
+            "name": " Machine Learning"
+        },
+        {
+            "name": ""
+        }
+    ]
+}

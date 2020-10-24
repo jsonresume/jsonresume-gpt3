@@ -1,0 +1,15 @@
+Name:Rob Whipple
+Job Title:Software Developer
+Summary:I am a generalist software developer with over 15 years experience in a wide variety of languages and frameworks. I have been working for the last 6 years with Java as an enterprise developer. I have also been using C# and .NET for over 10 years including working with the MVC framework. I have been using Linux based systems for over 12 years.
+Company #1 Name:Advance Auto Parts
+Company #1 Role:Software Developer
+Company #1 Summary:I was part of a team of developers who were responsible for the development of an enterprise application for Advance Auto Parts.
+Company #1 Highlight 1:We were responsible for the development of a custom reporting system which used a mix of Java, XML and JSP.
+Company #1 Highlight 2:I was responsible for the development of a custom user interface for the system using the MVC framework.
+Company #2:Museum of Science and Industry (MOSI)
+Company #2 Role:Software Developer
+Company #2 Summary:I was responsible for the development of a custom reporting system for the Museum of Science and Industry (MOSI)
+Company #2 Highlight 1:The system I worked on was developed on the Laravel framework and used a MySQL database.
+Company #2 Highlight 2:I was responsible for the development of a custom user interface for the system using the MVC framework.
+Personal Reference:As a new developer at Advance Auto Parts, I was fortunate enough to be paired with Rob. He was instrumental in helping me become the developer I am today. He took the time to mentor me and helped me to learn what it was to be a great developer. I went from struggling to get into the groove of the language I was using to writing code that was readable and maintainable. He was also instrumental in teaching me how to work in a professional environment.
+Interests: SCUBA Scuba diving in the Florida Keys.

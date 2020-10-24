@@ -1,0 +1,15 @@
+Name:Chris Rolfe
+Job Title:Sr. Software Engineer
+Summary:I’ve been programming professionally for over 20 years. I’ve worked mostly with Java, and spent a lot of time working with the Spring Framework. Over the last few years, I’ve been getting involved with Scala and the Akka framework. I’ve worked primarily in the enterprise space, where I’ve architected and delivered backend applications that are used by millions of users.
+Company #1 Name:Salesforce
+Company #1 Role:Principal Software Engineer
+Company #1 Summary:Worked on the Human Resources team, where I was part of a team that designed, developed and delivered new features to the Salesforce platform. I was one of the senior technical members of this team, and I worked closely with the product managers to deliver the right technical solution.
+Company #1 Highlight 1:Worked on a team that worked on a project to use chat bots to remove friction from the hiring process for the company.
+Company #1 Highlight 2:Developed a number of features for the Salesforce Mobile SDK, which allows users to extend the Salesforce platform to mobile devices
+Company #2 Name:Red Hat, NA Division
+Company #2 Role:Technical Lead
+Company #2 Summary:Lead the design, build and deployment of a new Human Resource Information System (HRIS) for the North American division.
+Company #2 Highlight 1:Created a large number of well-designed, well-tested, reusable Java libraries
+Company #2 Highlight 2:Created a large number of well-designed, well-tested, reusable Java libraries
+Personal Reference:Chris is a true professional. He is a hard worker, and a great thinker. He has been a pleasure to work with, and has a very calm demeanor. I can always trust that he will do a great job, and do it on time.
+Interests: Open source software. Coffee.

@@ -1,0 +1,52 @@
+{
+    "basics": {
+        "name": "Rob Whipple",
+        "label": "Software Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a generalist software developer with over 15 years experience in a wide variety of languages and frameworks. I have been working for the last 6 years with Java as an enterprise developer. I have also been using C# and .NET for over 10 years including working with the MVC framework. I have been using Linux based systems for over 12 years.",
+        "email": "rob-whipple@gmail.com",
+        "location": {
+            "city": "San Francisco",
+            "countryCode": "USA"
+        }
+    },
+    "references": [
+        {
+            "reference": "As a new developer at Advance Auto Parts, I was fortunate enough to be paired with Rob. He was instrumental in helping me become the developer I am today. He took the time to mentor me and helped me to learn what it was to be a great developer. I went from struggling to get into the groove of the language I was using to writing code that was readable and maintainable. He was also instrumental in teaching me how to work in a professional environment.",
+            "name": "Contact Available Upon Request"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "We were responsible for the development of a custom reporting system which used a mix of Java, XML and JSP.",
+                "I was responsible for the development of a custom user interface for the system using the MVC framework."
+            ],
+            "summary": "I was part of a team of developers who were responsible for the development of an enterprise application for Advance Auto Parts.",
+            "website": "https://advance-auto-parts.com",
+            "company": "Advance Auto Parts",
+            "position": "Software Developer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "The system I worked on was developed on the Laravel framework and used a MySQL database.",
+                "I was responsible for the development of a custom user interface for the system using the MVC framework."
+            ],
+            "summary": "I was responsible for the development of a custom reporting system for the Museum of Science and Industry (MOSI)",
+            "website": "https://advance-auto-parts.com",
+            "position": "Software Developer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": " SCUBA Scuba diving in the Florida Keys"
+        },
+        {
+            "name": ""
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "basics": {
+        "name": "David Ralph",
+        "label": "Senior Analyst Programmer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I have been a software development professional for over 34 years. I have a strong track record of building, launching and supporting enterprise projects. I am a great team player, and I am passionate about turning customer requirements into useful and usable software.",
+        "email": "david-ralph@gmail.com",
+        "location": {
+            "city": "San Francisco",
+            "countryCode": "USA"
+        }
+    },
+    "references": [
+        {
+            "reference": "David is a JavaScript/TypeScript developer with a passion for developing quality software quickly. He is a proven team player who is known for his ability to manage a high volume of work with minimal supervision.",
+            "name": "Contact Available Upon Request"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Developed and coded business rules for enterprise applications used by thousands of banking customers including business rules for mortgage applications",
+                "Developed and coded a new solution for managing the bank's country and corporate bank accounts on behalf of the firm's corporate clients"
+            ],
+            "summary": "Innovate and manage the delivery of the firm's top performing applications used by retail and commercial business banking customers",
+            "website": "https://scotiabank.com",
+            "company": "Scotiabank",
+            "position": "Senior Analyst Programmer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Developed an e-commerce site for the credit union's members to access their accounts. This site was highly successful and was awarded an Innovation Award by the Canadian Credit Union Association",
+                "Developed a mobile application for the credit union's members to access their accounts. This application was highly successful and was awarded an Innovation Award by the Canadian Credit Union Association"
+            ],
+            "summary": "Innovate and manage the delivery of the credit union's top performing applications used by members and employees",
+            "website": "https://scotiabank.com",
+            "company": "Glace Bay Consolidated Credit Union",
+            "position": "Sr. Analyst Programmer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": " Custom motorcycles"
+        },
+        {
+            "name": " Cooking"
+        },
+        {
+            "name": ""
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "basics": {
+        "name": "Michael J. Troup",
+        "label": "Software Engineer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I have worked primarily as a C#/.Net developer for many years. I have extensive experience working with web technologies including ASP.Net, MVC, WPF, and Web API. I am currently working as a backend web services developer working with Scala and AWS Lambda.",
+        "email": "michael-j.-troup@gmail.com",
+        "location": {
+            "city": "San Francisco",
+            "countryCode": "USA"
+        }
+    },
+    "references": [
+        {
+            "reference": "Mike has been a key contributor to many of my teams over the last decade. He has a natural ability to identify the root cause of issues and create technical solutions that are easy to maintain and scale. Mike has a broad software development background and is always learning new technologies and methodologies to benefit our company and his team.",
+            "name": "Contact Available Upon Request"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Built a framework to be used by internal business partners to add additional services to our platform",
+                "Migrated an internal web interface to a single page application using Angular and TypeScript"
+            ],
+            "summary": "Built a REST based web services interface to an in-house revenue cycle management system to support the implementation of an electronic medical records system for a large provider of specialty care.",
+            "website": "https://w2-group.com",
+            "company": "W2 Group",
+            "position": "Senior Software Engineer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Converted a complex web application to AngularJS 1.x and TypeScript",
+                "Led a team responsible for the design, development, and support of an internal CRM system used by all Advance Auto Parts stores"
+            ],
+            "summary": "Responsible for the design, development, and technical leadership of a number of websites and web applications for the Advance Auto Parts automotive retail division.",
+            "website": "https://w2-group.com",
+            "company": "Advance Auto Parts",
+            "position": "Lead Software Engineer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": " Photography"
+        },
+        {
+            "name": ""
+        }
+    ]
+}

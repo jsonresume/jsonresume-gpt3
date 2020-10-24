@@ -1,0 +1,56 @@
+{
+    "basics": {
+        "name": "John Smith",
+        "label": "Software Engineer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I have over a decade of experience in building modern, scalable web and mobile applications. I have architected, designed, and delivered complex software-as-a-service, and have extensive experience designing, building, and maintaining scalable microservices.",
+        "email": "john-smith@gmail.com",
+        "location": {
+            "city": "San Francisco",
+            "countryCode": "USA"
+        }
+    },
+    "references": [
+        {
+            "reference": "I have worked alongside John for over a decade. He is a passionate engineer who produces high quality code that is both maintainable and extensible. His work has always been above and beyond, and he is always willing to help out and mentor others.",
+            "name": "Contact Available Upon Request"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Worked in a dogfooding capacity for Facebook’s internal products",
+                null
+            ],
+            "summary": "Managed a team of engineers building high-volume, high-visibility projects, such as the Facebook app on iPhone and iPad",
+            "website": "https://facebook-inc..com",
+            "company": "Facebook Inc.",
+            "position": "Engineering Manager",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Implemented a highly scalable solution for powering a multi-sided platform using Java and Scala, using AWS and Cloudfoundry",
+                "Built a resilient (and performant) application architecture using event-driven microservices and reactive programming"
+            ],
+            "summary": "Lead a team of developers in building a multi-sided market platform servicing airlines, hotels, car rental agencies, and travel agents",
+            "website": "https://facebook-inc..com",
+            "company": "Fare Network",
+            "position": "Senior Software Engineer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": " Music"
+        },
+        {
+            "name": " especially piano"
+        },
+        {
+            "name": ""
+        }
+    ]
+}
