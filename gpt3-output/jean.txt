@@ -1,0 +1,16 @@
+Name:Sean T. Allen
+Job Title:Senior Software Engineer / Developer
+Summary:I am passionate about building high quality software. I am a full stack developer with a broad range of experience building web, desktop and mobile applications.
+Company #1 Name:Packard Bell
+Company #1 Role:Developer
+Company #1 Summary:I helped launch a new division of Packard Bell to serve the US K-12 market. This division was responsible for the design, implementation, and support of all hardware and software in the classroom.
+I was a member of the core development team, building all aspects of the product from the ground up.
+Company #1 Highlight 1:I was the sole developer of a unique classroom management system using the Adobe Flash Platform.
+Company #1 Highlight 2:I helped design and implement a web based reporting and analytics system that provided real time information about the health and performance of the classroom devices.
+Company #2 Name:Manheim
+Company #2 Role:Developer
+Company #2 Summary:I was a member of the Manheim Garage Technology Center team responsible for building the product and deployment infrastructure to manage a large fleet of mobile computers.
+Company #2 Highlight 1:I was responsible for the design and implementation of a system to allow mobile devices to connect to web services used for inventory, reporting and asset control.
+Company #2 Highlight 2:I was the lead developer for the design and implementation of a set of web services used for inventory, reporting, and asset control.
+Personal Reference:I have worked with Sean for several years and have always been impressed with his technical skills and his ability to problem solve. He is an excellent communicator who is well versed in a wide range of technologies. He is a great team player and a pleasure to work with.
+Interests:Outdoors. Cooking. Wine

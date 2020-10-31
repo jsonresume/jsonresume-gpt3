@@ -1,0 +1,13 @@
+Name:Braden Kuczynski
+Job Title:Senior Software Developer
+Summary: I have over 6 years of experience working as a full stack developer and specializing in frontend development. I have worked with many of the common frontend frameworks including Angular, React, and Vue. I am also proficient with C#, HTML, CSS, and JavaScript. My experience also includes working with both linux and windows based servers. I have worked on projects for both consumer and business applications. I pride myself in being able to quickly learn and adapt to new technologies and work efficiently and effectively.
+Company #1 Name:FHI 360
+Company #1 Role: Programmer Analyst
+Company #1 Summary: I worked on an internal web application for FHI 360 that is used by current and prospective employees. The application gives employees access to various forms and documents. I worked with an Angular front end and a C# backend.
+Company #1 Highlight 1: I worked on a web application for FHI 360 that is used by current and prospective employees. The application gives employees access to various forms and documents. I worked with an Angular front end and a C# backend.
+Company #2 Name:Weddingz
+Company #2 Role: Fullstack Engineer
+Company #2 Summary: I worked on the Weddingz web app which is a wedding planning tool. On the backend I worked with Node.js, Express, and MySQL. On the frontend I worked with Angular and Aurelia. The app is backed by MongoDB, AWS and Google Cloud.
+Company #2 Highlight: I worked with the CEO to create a WebSocket collaboration tool that allowed multiple people to see what changes were being made in the application.
+Personal Reference: Braden is an excellent full-stack developer. He is always willing to take on new technologies and has a great work ethic.
+Interests: Outside of work I enjoy playing music, hiking, and reading.

@@ -1,0 +1,12 @@
+Name:Tyler Smith
+Job Title:Senior Software Engineer
+Summary: I have over 4 years of experience in software development. I have developed applications for both consumer and business uses. I have worked with many different technologies including C#, Java, Ruby, Python, and JavaScript. I have also worked with both windows and linux based servers. I have great experience in Software Development Life Cycle (SDLC) methodologies. I am passionate about software development, this passion shines through in my work.
+Company List:
+Company 1: New York State
+Company 2: Allstate Insurance
+Company 3: The Cell Phone Store
+Company 4: VitalChek
+Company Summary: I have worked with both public and private companies in many different capacities. These companies have used me as a developer, project manager, developer, and project manager.
+Company Highlight: I led a 6-month project that allowed New York state to take applications for a variety of different government programs through an online portal.
+Personal Reference: I am currently working with Tyler at a startup in New York City. Tyler has been in the industry for a long time and has many great technical and non-technical skills. I have hired Tyler on multiple projects and he always does a great job.
+Interests: I enjoy running, reading, and studying in my free time.

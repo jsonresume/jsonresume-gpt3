@@ -1,0 +1,14 @@
+Name:Erick Mensh
+Job Title:Senior Software Engineer
+Company #1 Name:OmniTI
+Company #1 Role:Senior Consultant
+Company #1 Summary:Built scalable, high-availability web services and databases using Rails, Cassandra, and AWS.
+Company #1 Highlight 1:Oversaw application uptime, availability, monitoring, and alerting (via PagerDuty) of a large scale Rails application, responsible for the application's availability
+Company #1 Highlight 2:Developed a Ruby gem for managing Cassandra clusters
+Company #2 Name:Omniture
+Company #2 Role:Senior Consultant
+Company #2 Summary:Worked on a large-scale, Rails-based web application responsible for serving millions of users.
+Company #2 Highlight 1:Consolidated the codebase to a single Rails application, reducing complexity and improving maintainability
+Company #2 Highlight 2:Migrated from MySQL to Cassandra
+Personal Reference:Erick has been a great software engineer to work with. He has a strong ability to understand problems and suggest solutions while also remaining flexible to work within a team. He is always willing to help out, work late or come in on the weekends if needed.
+Interests: Music. Electronic music production.

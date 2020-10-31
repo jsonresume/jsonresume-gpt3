@@ -13,4 +13,5 @@ completions = openai.Completion.create(
   max_tokens=852,
   stop="====="
 )
+
 print(completions)

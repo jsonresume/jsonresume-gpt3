@@ -1,0 +1,15 @@
+Name:Johnny Stark
+Job Title:Lead Full Stack Developer
+Summary:I'm a full stack developer with over a decade of experience. I specialize in large scale, highly responsive web applications.
+Company #1 Name:Verizon Wireless
+Company #1 Role:Lead Software Engineer
+Company #1 Summary:Developed large scale REST API infrastructure and provided services to millions of customers
+Company #1 Highlight 1:Successfully managed team of developers and project managers shipping software 3x per year
+Company #1 Highlight 2:Spent time developing and architecting large scale REST API infrastructure using Python and Java
+Company #2 Name:Gogo Inflight Internet
+Company #2 Role:Front End Developer
+Company #2 Summary:Built large scale, highly responsive web applications in JavaScript
+Company #2 Highlight 1:Led team of 3 Individual Contributors, and 5 more junior developers, in successful and timely completion of web application
+Company #2 Highlight 2:Developed a new web application using React and Redux with S3, Saga, and DynamoDB
+Personal Reference:I've never worked with a more talented team as the one I was part of at Verizon Wireless. I say this not to toot my own horn, but the team just really worked well together. We were all experts in our fields, but came together to form a whole greater than the sum of it's parts. This was my first experience writing large scale, highly scalable applications, and Johnny was instrumental in helping me learn. He's an excellent engineer, and a great mentor.
+Interests: Writing. Reading. Martial Arts.

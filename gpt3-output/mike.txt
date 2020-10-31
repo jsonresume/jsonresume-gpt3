@@ -1,0 +1,16 @@
+Name:Mike Kline
+Job Title:Principal Software Engineer
+Summary:I'm a professional software engineer with over 10 years of experience building and maintaining web services and applications. I have worked with Python, Ruby, Go, C#, and Java, in many different areas: web apps, batch processing, ETL, and machine learning. I enjoy working on ambitious projects with small teams, and I'm always looking to learn new tools and technologies.
+Company #1 Name:Blackmagic Design
+Company #1 Role:Application Manager
+Company #1 Summary:Built, managed, and deployed one of the largest Rails applications in the world (serving hundreds of thousands of users)
+Company #1 Highlight 1:Developed a system for deploying Rails applications that ran on hundreds of servers, with thousands of users
+Company #1 Highlight 2:Documented and enforced a company-wide convention for using gems and other external dependencies
+Personal Reference:I worked with Mike at Blackmagic Design for a number of years, and have continued to enjoy working with him since he left. He is a very talented developer who is very technically strong and has excellent communication skills. He is also very knowledgeable about the industry and the tools that are available to solve problems.
+Company Name #1:Blackmagic Design
+Company Role #1:Application Manager
+Company Summary:Built, managed, and deployed one of the largest Rails applications in the world (serving hundreds of thousands of users)
+Company Highlight #1:Developed a system for deploying Rails applications that ran on hundreds of servers, with thousands of users
+Company Highlight #2:Documented and enforced a company-wide convention for using gems and other external dependencies
+Personal Reference:I worked with Mike at Blackmagic Design for a number of years, and have continued to enjoy working with him since he left. He is a very talented developer who is very technically strong and has excellent communication skills. He is also very knowledgeable about the industry and the tools that are available to solve problems.
+Interests:Gardening. Reading. Gaming

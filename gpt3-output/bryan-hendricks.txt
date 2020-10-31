@@ -1,0 +1,15 @@
+Name:Bryan Hendricks
+Job Title:Senior Software Engineer
+Summary: Experienced full-stack engineer with a focus on front-end technologies, database design and optimization, and DevOps.
+Company Name #1:Sierra Pacific Industries (SPI)
+Company #1 Role:Plant Information Systems Tech
+Company #1 Summary:SPI is the largest lumber producer and 2nd largest lumber company in the US
+Company #1 Highlight 1:Developed a remote data collection tool in React/Redux/Redis for live reporting of lumber mill activity
+Company #1 Highlight 2:Wrote React/Redux application using an AWS serverless platform for a paperless lumber mill
+Company #2 Name:Sierra Pacific Industries (SPI)
+Company #2 Role:Product Line Manager
+Company #2 Summary:SPI is the largest lumber producer and 2nd largest lumber company in the US
+Company #2 Highlight 1:Managed team of 6 that developed a common data model, used across multiple line of business applications, and implemented with front-end tools, for a paperless lumber mill
+Company #2 Highlight 2:Managed team of 5 that developed a React/Redux application for a paperless lumber mill
+Personal Reference:Bryan's ability to understand and solve problems, and his attention to detail, have made him an invaluable asset to SPI. His ability to work with a wide variety of technologies, and his ability to communicate and implement his ideas, make him an ideal tech lead.
+Interests: Hiking. Rowing.

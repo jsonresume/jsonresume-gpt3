@@ -1,0 +1,14 @@
+Name:Paul Schalliol
+Job Title:Software Engineer
+Summary:I am a full-stack software engineer with over 10 years of experience working on large web applications. I have done extensive work with both frontend and backend development, and have experience shipping applications to production.
+Company #1 Name:Fidelity Investments
+Company #1 Role:Application Developer
+Company #1 Summary:I worked on a team of developers building new user-facing applications for the company's customer base.
+Company #1 Highlight 1:Hands-on development of a number of web applications using JavaScript, .NET, and various other technologies. We were a team of 4 developers building a major new product for Fidelity.
+Company #1 Highlight 2:I was the primary technical contact for a product that was used for tens of thousands of customers. This included customer support, bug fixes, and feature builds.
+Company #2 Name:Fidelity Investments
+Company #2 Role:Application Developer
+Company #2 Summary:I worked on a team of developers building new user-facing applications for the company's customer base.
+Company #2 Highlight 1: We were responsible for the development and deployment of a number of new products for our internal users, including the creation of several new web applications.
+Personal Reference:I've worked with Paul for more than six years. He's an excellent developer who is able to walk the line between back-end and front-end development. He's extremely responsive and is a great team player.
+Interests: I enjoy spending time with my family and friends, and also reading and various other hobbies.

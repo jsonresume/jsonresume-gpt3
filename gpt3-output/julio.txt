@@ -1,0 +1,15 @@
+Name:Julio Sanchez
+Job Title:Full Stack Engineer
+Summary:Software industry veteran with 10+ years building enterprise systems. Specialize in N-tier web application development using Java EE, JavaScript, jQuery, AJAX, Angular, Bootstrap, and other technologies. I am experienced in distributed systems, e-commerce, complex object-oriented architectures, concurrent processing, software engineering, programming, testing, performance tuning, project management, and other software-related tasks.
+Company #1 Name:Viant Technology
+Company #1 Role:Lead web software engineer
+Company #1 Summary:Lead a team of five engineers to develop an enterprise-level solution to provide full-scale digital and print advertising management platform to one of the largest global advertising agencies
+Company #1 Highlight 1:Lead efforts to migrate application to Java 8 using Spring Boot and AngularJS with a focus on micro-services to drive strong team cohesion, maintainability, test-ability, and continuous integration
+Company #1 Highlight 2:Contributor to company culture by leading a Hackathon initiative to develop company intranet and various internal projects
+Company #2 Name:Viant Technology
+Company #2 Role:Senior Software Engineer
+Company #2 Summary:Developed a data-driven application to provide unique content management and digital asset management capabilities
+Company #2 Highlight 1:Designed and developed a proof-of-concept application to demonstrate the capabilities of a new digital product
+Company #2 Highlight 2:Led efforts to identify and communicate the business value and long-term goals for corporate intranet portal
+Personal Reference:Julio has the perfect blend of technical and people skills to thrive in any situation. He is a self-starter and does not need to be micromanaged. I give Julio challenging projects with high impact and he always delivers.
+Interests:Fitness, shooting, and photography.

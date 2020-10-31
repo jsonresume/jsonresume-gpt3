@@ -1,0 +1,15 @@
+Name:Ariel Smigel
+Job Title:Senior Software Engineer
+Summary:Full-stack developer with 8+ years of experience, building high-traffic, complex web applications. I work well in teams, always strive for excellence, and enjoy helping others learn. I’m looking for a role where I can use my skills to make a difference.
+Company #1 Name:Matchpool
+Company #1 Role:Software Engineer
+Company #1 Summary:Matchpool is a decentralized dating service, aimed to reduce the cost of matchmaking, and bring people together with similar interests and passions.
+Company #1 Highlight 1:Built a chatbot that tracks user activity and recommends matches
+Company #1 Highlight 2:Made a full-stack app using Ruby on Rails and React
+Company #2 Name:SHI International
+Company #2 Role:Senior Software Engineer
+Company #2 Summary:Built backend REST API using Ruby on Rails and implemented a full stack web application for managing a fleet of taxi cabs
+Company #2 Highlight 1:Built a system for preventing fraud and abuse
+Company #2 Highlight 2:Created an admin interface for uploading images to S3
+Personal Reference:I worked with Ariel at Matchpool and I really enjoyed working with him, he's very talented in many areas including technical, design, and management. He's a pleasure to work with and is always looking to improve.
+Interests:Health. Running. Music.

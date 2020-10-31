@@ -1,0 +1,15 @@
+Name:Stephen P. Walker
+Job Title:Senior Software Engineer
+Summary:Software developer with experience in a variety of areas including web development, machine learning, image processing, and data mining.
+Company #1 Name:Etsy
+Company #1 Role:Software Engineer
+Company #1 Summary:Wrote code for web servers, mobile apps, iOS apps, and internal tools
+Company #1 Highlight 1:Wrote a piece of software that monitors Etsy's marketplace for fraudulent activity and notifies users of suspicious activity
+Company #1 Highlight 2:Wrote a system that compares information from different databases and generates reports for analysis and quality control
+Company #2 Name:Adobe
+Company #2 Role:Senior Software Engineer
+Company #2 Summary:Developed software for the Monotype Imaging Corporation that was used by hundreds of organizations for comparing and verifying scanned documents
+Company #2 Highlight 1:Built a system to compare the scans of documents from multiple sources and generate reports that could be used by the legal system
+Company #2 Highlight 2:Built a system to compare documents and generate alerts if the text in the documents were different
+Personal Reference:Stephen has been in a variety of roles at Adobe and the Monotype Imaging Corporation. He has experience in a number of areas including web development, mobile application development, and document comparison. Stephen is a very talented engineer who I would highly recommend for any position.
+Interests: Cycling. Skiing. Snowboarding.
